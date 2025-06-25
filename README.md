@@ -37,3 +37,7 @@ Functional Requirements                Non-functional Requirements for the booki
 -User Management                     -Compatibility
 -Reporting                           -Legal Compliance
 -Notifications                       -Reliability
+
+alx-booking-uc.png
+![alx-booking-uc](https://github.com/user-attachments/assets/42c8b3f9-c875-42c9-90c8-f65501819673)
+
