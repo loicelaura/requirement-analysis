@@ -38,6 +38,31 @@ Functional Requirements                Non-functional Requirements for the booki
 -Reporting                           -Legal Compliance
 -Notifications                       -Reliability
 
+Use Case Diagrams
+Benefits of Use Case Diagrams
+-Visual Representation
+-Requirement Elicitation
+-Communication Tool
+-Early Stage Design
+-Scope Definition
+-Reduced Ambiguity
 alx-booking-uc.png
 ![alx-booking-uc](https://github.com/user-attachments/assets/42c8b3f9-c875-42c9-90c8-f65501819673)
+
+“Acceptance Criteria.”
+Acceptance Criteria (AC) are a set of conditions that a software product must satisfy to be accepted by a user, customer, or other stakeholder.
+Purpose and Benefits of Acceptance Criteria:
+Clarity and Shared Understanding: They ensure everyone (product owner, developers, testers) has a consistent and clear understanding of the feature's requirements.
+
+Scope Definition: They clearly define what's included and what's not, preventing scope creep and misunderstandings.
+
+Test Case Foundation: They serve as the direct basis for creating test cases, allowing testers to verify that the software behaves as expected.
+
+Improved Communication: They act as a common language between business and technical teams.
+
+Faster Feedback Loops: Clear criteria enable quicker validation and acceptance/rejection of implemented features.
+
+Reduced Rework: By specifying expectations upfront, they minimize misinterpretations and the need for costly rework.
+
+Definition of "Done": They provide a concrete checklist for when a feature can truly be considered finished and shippable.
 
