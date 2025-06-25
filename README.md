@@ -49,6 +49,8 @@ Benefits of Use Case Diagrams
 alx-booking-uc.png
 ![alx-booking-uc](https://github.com/user-attachments/assets/42c8b3f9-c875-42c9-90c8-f65501819673)
 
+ "alx-booking-uc.png"
+https://drive.google.com/file/d/1gwRnBa7TurGfvW8yBn0dF0SWnhmMFBKy/view?usp=sharing
 “Acceptance Criteria.”
 Acceptance Criteria (AC) are a set of conditions that a software product must satisfy to be accepted by a user, customer, or other stakeholder.
 Purpose and Benefits of Acceptance Criteria:
