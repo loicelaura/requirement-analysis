@@ -12,3 +12,28 @@ Ensures User Satisfaction
 Facilitates Accurate Estimation
 Enables Effective Testing
 Manages Change Effectively
+
+ “Why is Requirement Analysis Important?”
+ Requirement analysis is a crucial step in test case management because it lays the groundwork for the entire testing process, ensuring that the software meets both business and user expectations.
+
+ Key Activities in Requirement Analysis.
+ 1. Requirement Gathering:
+This is the initial phase where the project's scope and stakeholder needs are identified and understood. It involves identifying all stakeholders (customers, users, internal teams, etc.) and understanding their expectations for the project. 
+2. Requirement Elicitation:
+This stage focuses on actively collecting requirements from stakeholders. Techniques include interviews, surveys, workshops, and document analysis. The goal is to gather detailed information about what the system or product needs to do. 
+3. Requirement Documentation:
+The collected requirements are then documented in a structured and organized manner. This may involve creating user stories, functional decompositions, or detailed descriptions of features. 
+4. Requirement Analysis and Modeling:
+This stage involves analyzing the collected requirements for completeness, consistency, and feasibility. Modeling techniques, such as UML diagrams or process flowcharts, may be used to represent the requirements visually and ensure a clear understanding. 
+5. Requirement Validation:
+Finally, the requirements are validated to ensure they accurately reflect the needs of the stakeholders and are technically feasible. This may involve reviewing the documentation, prototyping, or user testing.
+
+“Types of Requirements.”
+Functional Requirements                Non-functional Requirements for the booking management project
+-Reservation Management              -Performance
+-Payment Processing                  -Security
+-Guest Management                    -Scalability
+-Room Management                     -Maintainability
+-User Management                     -Compatibility
+-Reporting                           -Legal Compliance
+-Notifications                       -Reliability
